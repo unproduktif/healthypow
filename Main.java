@@ -7,5 +7,8 @@ public class Main {
     void coba (){
         System.out.println("inni aku");
     }
+    void bima(){
+        System.out.println("KHALID GANTENg");
+    }
 }
 
